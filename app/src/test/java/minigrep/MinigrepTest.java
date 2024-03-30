@@ -1,7 +1,6 @@
-package minigrep;
-
-import static org.junit.Assert.assertArrayEquals;
-import org.junit.Test;
+import minigrep.Minigrep;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
+import org.junit.jupiter.api.Test;
 
 public class MinigrepTest {
     @Test
